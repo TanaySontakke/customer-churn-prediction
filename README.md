@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-This project applies machine learning techniques to predict whether a customer will churn (leave the service) based on customer demographics and service usage data.
+This project applies machine learning techniques to predict whether a customer will churn (leave the service) based on customer demographics, service usage and billing data.
 
 ## 📊 Overview
 
